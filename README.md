@@ -5,6 +5,7 @@
 1. Clone or download repository in your local machine.
 2. Open command prompt on downloaded/cloned location.
 3. Then:
+    
 	a. To Run FirstKickOnJava
 		
 		cd firstkickonjava
