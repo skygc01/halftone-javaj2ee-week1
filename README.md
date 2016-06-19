@@ -1,1 +1,4 @@
-# halftone-javaj2ee-week1
+# Halftone-Java/J2ee Training - Week1
+Slide: https://github.com/training-developerbhuwan/halftone-javaj2ee-week1/blob/master/1.%20JavaJ2EE%20Week-1%20Training.pdf
+
+#Demo Examples
